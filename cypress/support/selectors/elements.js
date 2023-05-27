@@ -1,0 +1,15 @@
+export default {
+    JOB_CARD: '.careers-search-results .result-item',
+    WEBINAR_POPUP: '.popmake-close',
+    SEARCH_RESULT_SECTION: '.careers-search-results',
+    JOB_DESCRIPTION: '[data-qa="job-description"]',
+    SHOW_PAGE_APPLY: '[data-qa="show-page-apply"]',
+    APPLICATION_FORM: '#application-form',
+    NAME_INPUT: '[name="name"]',
+    EMAIL_INPUT: '[name="email"]',
+    PHONE_INPUT: '[name="phone"]',
+    COMPANY_INPUT: '[name="org"]',
+    SALARY_INPUT: '.custom-question .card-field-input',
+    MARKETING_CHECKBOX: '[type="checkbox"]',
+    SUBMIT_CTA: '#btn-submit',
+}
